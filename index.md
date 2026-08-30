@@ -1,14 +1,14 @@
 # BeyondAlarm — Privacy Policy
 
-**Last updated: 16 August 2026**
+**Last updated: 29 August 2026**
 
 ## The short version
 
-BeyondAlarm stores your alarms and voice recordings in the app's local storage on your
-iPhone. BeyondAlarm does not transmit your alarms, labels, or recordings to us or to
-RevenueCat. If you use iCloud Backup or a computer backup, iOS may include BeyondAlarm's
-local data in that backup. Subscription-related information is handled by Apple and
-RevenueCat as described below.
+BeyondAlarm stores your alarms, your timers, and your voice recordings in the app's local
+storage on your iPhone. BeyondAlarm does not transmit your alarms, timers, labels, or
+recordings to us or to RevenueCat. If you use iCloud Backup or a computer backup, iOS may
+include BeyondAlarm's local data in that backup. Subscription-related information is handled
+by Apple and RevenueCat as described below.
 
 ## Who we are and how to contact us
 
@@ -32,43 +32,48 @@ aloud), sound and voice choices, how often the label repeats, the snooze setting
 each alarm is on or off — all saved on your iPhone only. BeyondAlarm does not sync them between
 your devices, and we cannot see them.
 
-**Your voice recordings.** If you dictate an alarm label and allow BeyondAlarm to keep the
-recording, BeyondAlarm saves that audio on your iPhone so the alarm can read the label back
-in your own voice.
+**Your timers.** Durations, labels, alert style, sound and voice choices, and how often the
+label repeats — saved on your iPhone only, exactly as your alarms are. BeyondAlarm does not
+sync them between your devices, and we cannot see them.
+
+**Your voice recordings.** If you dictate an alarm or timer label and allow BeyondAlarm to
+keep the recording, BeyondAlarm saves that audio on your iPhone so that alarm or timer can
+read the label back in your own voice.
 
 - The recording **stays on your device** and is **never uploaded by BeyondAlarm**.
 - It **may be included in your own iPhone backup** (iCloud Backup or a computer backup), and
   restored to a new device along with the rest of your data. That backup belongs to you and
   is governed by Apple's terms, not ours — but we mention it because "stays on your device"
   should not be read as "exists in exactly one place forever".
-- Deleting an alarm deletes its recording. Changing the alarm's label so it no longer matches
-  what you recorded stops the recording being used, and it is cleaned up when it is no longer
-  needed by any alarm.
+- Deleting an alarm — or a timer — deletes its recording. Changing that alarm's or timer's
+  label so it no longer matches what you recorded stops the recording being used, and it is
+  cleaned up when it is no longer needed by any alarm or timer.
 - BeyondAlarm asks before keeping recordings. If you decline, dictation still works — the
   words become your label and no audio is kept.
 - **You can change your mind at any time in Settings ▸ Voice ▸ Voice recordings.** Turning it
   **off** stops BeyondAlarm keeping any *new* recording. On its own it does not remove
   recordings you already have: BeyondAlarm tells you how many there are and lets you choose.
-  - **Keep them** — your existing recordings stay on this device, and those alarms keep
-    reading their labels in your own voice.
-  - **Delete** — BeyondAlarm removes them, and those alarms read their labels in a system
-    voice instead, so no alarm goes silent. Afterwards an alarm may ring the standard alarm
+  - **Keep them** — your existing recordings stay on this device, and those alarms and timers
+    keep reading their labels in your own voice.
+  - **Delete** — BeyondAlarm removes them, and those alarms and timers read their labels in a
+    system voice instead, so nothing goes silent. Afterwards an alarm may ring the standard alarm
     sound rather than reading its label aloud; BeyondAlarm tells you when that happens and
     puts it right on its own, usually the next time you open the app — but not always then,
     because it will not interrupt an alarm that is ringing or snoozed to do it, so an alarm
     can ring that way more than once before it is put right. If it cannot finish
     for one of those alarms — because that alarm's existing settings could not be replaced just
     then — BeyondAlarm tells
-    you instead of reporting success; that alarm keeps its recording and goes on using its own
-    voice, and the **Delete saved recordings** row finishes the job when you use it.
+    you instead of reporting success; that alarm or timer keeps its recording and goes on using
+    its own voice, and the **Delete saved recordings** row finishes the job when you use it.
   - Either way, new dictations are no longer saved from that point on. If you have no saved
     recordings, turning the setting off simply stops future saving — there is nothing to ask
     you about.
 - Settings also has a **Delete saved recordings** row whenever you have any, so you can delete
   them without changing the on/off setting in either direction.
-- If an alarm is ringing or snoozed when you ask to delete, nothing is deleted and BeyondAlarm
-  asks you to stop the alarm and try again. Turning the setting off still takes effect, so no
-  new recording is saved in the meantime.
+- If something is still running when you ask to delete — an alarm that is ringing or snoozed, or
+  a timer that is counting down, paused or ringing — nothing is deleted and BeyondAlarm asks you
+  to stop or cancel it and try again. Turning the setting off still takes effect, so no new
+  recording is saved in the meantime.
 
 **App settings**, such as whether you have completed the introduction, how many voice
 dictations you have used this week, and your recording-retention choice. Stored on your
@@ -101,7 +106,7 @@ subscription is active. RevenueCat receives purchase/receipt information and an 
 user ID generated for this installation. We do not set a name, email address, Apple Account,
 or custom user ID in RevenueCat. The anonymous ID is not your name, email, or Apple Account,
 but it is still a persistent identifier for this app installation and may be considered
-personal data. We do not send RevenueCat your alarms, labels, or recordings.
+personal data. We do not send RevenueCat your alarms, timers, labels, or recordings.
 
 RevenueCat's privacy policy: https://www.revenuecat.com/privacy
 
@@ -113,14 +118,14 @@ RevenueCat's privacy policy: https://www.revenuecat.com/privacy
   data-broker purposes.
 - We share subscription-related information only with Apple and RevenueCat as described in
   this policy.
-- BeyondAlarm does **not** transmit your alarms, labels, or voice recordings to us,
+- BeyondAlarm does **not** transmit your alarms, timers, labels, or voice recordings to us,
   RevenueCat, or any analytics service.
 
 ## Permissions the app asks for
 
-- **Alarms** — so BeyondAlarm can schedule alarms that ring reliably.
-- **Microphone** — so you can speak a label instead of typing it, and, if you allow it, so
-  that recording can be kept on your device.
+- **Alarms** — so BeyondAlarm can schedule alarms and timers that ring reliably.
+- **Microphone** — so you can speak an alarm or timer label instead of typing it, and, if you
+  allow it, so that recording can be kept on your device.
 - **Speech recognition** — to turn what you say into text, on your device.
 
 You can change these at any time in **Settings ▸ BeyondAlarm** on your iPhone. Declining the
@@ -130,8 +135,8 @@ microphone or speech permissions only removes dictation — typing a label still
 
 Where UK or EEA data protection law applies, we rely on these legal bases:
 
-- **Contract / app functionality**: to store alarms, settings, quota state, and subscription
-  status so the app works.
+- **Contract / app functionality**: to store alarms, timers, settings, quota state, and
+  subscription status so the app works.
 - **Consent**: to keep a voice recording for My Recording after you approve recording
   retention. You can withdraw that consent at any time in **Settings ▸ Voice ▸ Voice
   recordings**, and delete the recordings already on your device from the same screen.
@@ -147,8 +152,9 @@ safeguard, we rely on RevenueCat's data-processing terms and the applicable tran
 mechanisms in them — such as the EU Standard Contractual Clauses and the UK International
 Data Transfer Agreement/Addendum — where those terms apply to our use of RevenueCat.
 
-BeyondAlarm does not send your alarms, labels, or voice recordings to us or to RevenueCat. They
-may still be included in your own iCloud Backup or computer backup, as described above.
+BeyondAlarm does not send your alarms, timers, labels, or voice recordings to us or to
+RevenueCat. They may still be included in your own iCloud Backup or computer backup, as
+described above.
 
 ## Your privacy rights
 
@@ -156,9 +162,9 @@ Depending on where you live, you may have rights to access, correct, delete, exp
 restrict, or object to processing of your personal data, and to withdraw consent where
 processing is based on consent.
 
-Because your alarms, labels, and recordings stay on your device, we cannot remotely view,
-export, correct, or delete them for you. You can edit or delete alarms in the app, and
-deleting the app removes BeyondAlarm's local data from that device. You can withdraw your
+Because your alarms, timers, labels, and recordings stay on your device, we cannot remotely
+view, export, correct, or delete them for you. You can edit or delete alarms and timers in
+the app, and deleting the app removes BeyondAlarm's local data from that device. You can withdraw your
 consent to keeping recordings, and delete the recordings already saved, in **Settings ▸
 Voice** — see *What we store on your device* above for what each choice does. Backup copies
 are managed through your Apple backup settings.
@@ -174,26 +180,27 @@ This policy does not limit any privacy rights you have under laws that apply whe
 
 ## How long data is kept and how to delete it
 
-Alarms and settings stay on your device until you change them, delete them, or delete the
-app.
+Alarms, timers and settings stay on your device until you change them, delete them, or delete
+the app.
 
-Saved voice recordings stay while an alarm still needs them, or until you delete them —
-whichever comes first. They are also cleaned up automatically when an alarm stops needing
-them, as described below.
+Saved voice recordings stay while an alarm or timer still needs them, or until you delete
+them — whichever comes first. They are also cleaned up automatically when an alarm or timer
+stops needing them, as described below.
 
-**Deleting an alarm deletes its recording straight away.** So does choosing **Delete** in
-Settings ▸ Voice, for each alarm the deletion completes: that alarm stops using the recording
-immediately, the audio BeyondAlarm generated from it is removed at once, and the original
-recording is deleted at the same time. Where it cannot complete for one of those alarms —
-because that alarm's existing settings could not be replaced just then — that alarm keeps its
+**Deleting an alarm — or a timer — deletes its recording straight away.** So does choosing
+**Delete** in Settings ▸ Voice, for each alarm **or timer** the deletion completes: it stops using
+the recording immediately, the audio BeyondAlarm generated from it is removed at once, and the
+original recording is deleted at the same time. Where it cannot complete for one of them —
+because its existing settings could not be replaced just then — that alarm or timer keeps its
 recording and its own voice until you retry, and BeyondAlarm tells you rather than reporting
-success. *(A ringing or snoozed alarm is different, and is covered above: then nothing is
-deleted at all and BeyondAlarm asks you to try again after stopping it.)*
+success. *(Something that is running is different, and is covered above: if an alarm is ringing
+or snoozed, or a timer is counting down, paused or ringing, nothing is deleted at all and
+BeyondAlarm asks you to try again after stopping or cancelling it.)*
 
 **If removing the file itself cannot finish — for example the app is closed part-way through
 — the app completes it later on its own, but not on a schedule you can predict.** BeyondAlarm's
-routine cleanup runs when the app starts, and after an alarm is saved or deleted. It never
-runs on a timer and never while the app is closed. How many runs the fallback needs depends
+routine cleanup runs when the app starts, and after an alarm or timer is saved or deleted. It
+never runs on a schedule of its own, and never while the app is closed. How many runs the fallback needs depends
 on how far the file had already got: **usually two** — one to set it aside and a later one to
 erase it — but **one** if an earlier cleanup had already set it aside, and **more** if a step
 does not succeed, since the cleanup retries on the next run rather than forcing the issue. So
