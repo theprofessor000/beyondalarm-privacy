@@ -1,13 +1,13 @@
 # BeyondAlarm — Privacy Policy
 
-**Last updated: 26 September 2026**
+**Last updated: 11 October 2026**
 
 ## The short version
 
 BeyondAlarm stores your alarms, your timers, and your voice recordings in the app's local
 storage on your iPhone. BeyondAlarm does not transmit your alarms, timers, labels, or
 recordings to us or to RevenueCat. If you use iCloud Backup or a computer backup, iOS may
-include BeyondAlarm's local data in that backup. Subscription-related information is handled
+include BeyondAlarm's local data in that backup. Purchase-related information is handled
 by Apple and RevenueCat as described below.
 
 BeyondAlarm also sends a small number of **anonymous product-analytics signals** to
@@ -113,24 +113,26 @@ transcription, so your speech is not sent to Apple's servers for this app. If on
 recognition is unavailable, dictation stops and asks you to type the label instead, rather than
 falling back to a server.
 
-## Subscriptions and payments
+## Purchases and payments
 
-BeyondAlarm Pro is sold through **Apple's In-App Purchase**. Apple processes App Store
-purchases and payment details under Apple's own privacy policy. BeyondAlarm does not receive
-your payment card details. Apple may provide subscription receipt/status information needed
-to unlock Pro features.
+BeyondAlarm Pro is sold through **Apple's In-App Purchase**, as a monthly or yearly subscription
+or as a **one-time Lifetime purchase**. Apple processes App Store purchases and payment details
+under Apple's own privacy policy. BeyondAlarm does not receive your payment card details. Apple
+may provide receipt/status information for these purchases needed to unlock Pro features.
 
 Apple's privacy policy: https://www.apple.com/legal/privacy/
 
-We use **RevenueCat** as our subscription-management service provider to check whether a
-subscription is active. RevenueCat receives purchase/receipt information and an anonymous app
+We use **RevenueCat** as our purchase-management service provider to check whether Pro is
+active — whether it comes from a subscription or the one-time Lifetime purchase — and, before
+you buy, which purchases your Apple Account already has, so you are not charged twice.
+RevenueCat receives purchase/receipt information and an anonymous app
 user ID generated for this installation. We do not set a name, email address, Apple Account,
 or custom user ID in RevenueCat. The anonymous ID is not your name, email, or Apple Account,
 but it is still a persistent identifier for this app installation and may be considered
 personal data. We do not send RevenueCat your alarms, timers, labels, or recordings.
-RevenueCat also uses this purchase information, and the anonymous ID above, to give us **subscription statistics** — for example
-how many people start, renew or cancel BeyondAlarm Pro — which we use to understand how the
-subscription is doing. It is not used to advertise to you or to track you across other companies'
+RevenueCat also uses this purchase information, and the anonymous ID above, to give us **purchase statistics** — for example
+how many people buy, start, renew or cancel BeyondAlarm Pro — which we use to understand how
+Pro is doing. It is not used to advertise to you or to track you across other companies'
 apps or websites.
 
 RevenueCat's privacy policy: https://www.revenuecat.com/privacy
@@ -283,7 +285,7 @@ Sentry's privacy policy: https://sentry.io/privacy/
   identifier that stays the same on your device — a separate one, which that section explains.
 - We do **not** sell personal information or share it for advertising, cross-app tracking, or
   data-broker purposes.
-- We share subscription-related information only with Apple and RevenueCat as described in
+- We share purchase-related information only with Apple and RevenueCat as described in
   this policy.
 - BeyondAlarm does **not** transmit your alarms, timers, labels, or voice recordings to us,
   RevenueCat, our analytics provider, or our crash-reporting provider. The analytics signals are a
@@ -306,7 +308,7 @@ microphone or speech permissions only removes dictation — typing a label still
 Where UK or EEA data protection law applies, we rely on these legal bases:
 
 - **Contract / app functionality**: to store alarms, timers, settings, quota state, and
-  subscription status so the app works.
+  Pro status so the app works.
 - **Consent**: to keep a voice recording for My Recording after you approve recording
   retention. You can withdraw that consent at any time in **Settings ▸ Voice ▸ Voice
   recordings**, and delete the recordings already on your device from the same screen.
@@ -324,7 +326,7 @@ Where UK or EEA data protection law applies, we rely on these legal bases:
 
 ## International transfers
 
-RevenueCat is based in the United States, so the subscription-related information described
+RevenueCat is based in the United States, so the purchase-related information described
 above may be processed in the United States. Where UK or EEA law requires a transfer
 safeguard, we rely on RevenueCat's data-processing terms and the applicable transfer
 mechanisms in them — such as the EU Standard Contractual Clauses and the UK International
@@ -334,7 +336,7 @@ The analytics signals described under *Product analytics* are handled by **Telem
 which is based in Germany. TelemetryDeck states that this usage data is stored and processed **only
 within the EU**. So for users in the EEA that data is **not transferred outside the EEA at all**,
 and for UK users the EEA is covered by the UK's adequacy regulations — meaning **no additional
-transfer safeguard applies to it**, unlike the subscription information described above. Our use of
+transfer safeguard applies to it**, unlike the purchase information described above. Our use of
 TelemetryDeck is governed by their published **data-protection terms**.
 
 The crash reports described under *Crash reporting* are handled by **Sentry** in its **European data
@@ -365,7 +367,7 @@ consent to keeping recordings, and delete the recordings already saved, in **Set
 Voice** — see *What we store on your device* above for what each choice does. Backup copies
 are managed through your Apple backup settings.
 
-For subscription data handled through RevenueCat, or for the anonymous analytics signals
+For purchase data handled through RevenueCat, or for the anonymous analytics signals
 handled through TelemetryDeck, contact us at **beyondalarmai@gmail.com**. We will respond as
 required by applicable law.
 
@@ -458,7 +460,7 @@ discarded when you leave without saving.
 If you email us, we keep that correspondence for as long as needed to deal with your request
 and to keep a reasonable record of it.
 
-Subscription-related records are kept by Apple and RevenueCat according to their own policies.
+Purchase-related records are kept by Apple and RevenueCat according to their own policies.
 We use or access those records only for as long as needed to provide Pro features, handle
 support and privacy requests, prevent fraud or misuse, and meet legal and accounting
 obligations.
@@ -475,7 +477,7 @@ included BeyondAlarm, that backup copy is managed by Apple under your backup set
 BeyondAlarm is a general-audience app and is not directed to children under 13, or to
 children under the age that requires parental consent where they live. We do not knowingly
 collect personal information from children. If you believe a child has provided personal
-information through a support request or subscription-related process, contact us at
+information through a support request or purchase-related process, contact us at
 **beyondalarmai@gmail.com**.
 
 ## Changes to this policy
