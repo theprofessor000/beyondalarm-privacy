@@ -1,24 +1,27 @@
-# BeyondAlarm — Privacy Policy
+# BeYourAlarm — Privacy Policy
 
-**Last updated: 11 October 2026**
+**Last updated: 17 November 2026**
+
+*BeYourAlarm was called BeyondAlarm until November 2026. Only the name changed; nothing about what
+the app collects or how it is handled changed with it.*
 
 ## The short version
 
-BeyondAlarm stores your alarms, your timers, and your voice recordings in the app's local
-storage on your iPhone. BeyondAlarm does not transmit your alarms, timers, labels, or
+BeYourAlarm stores your alarms, your timers, and your voice recordings in the app's local
+storage on your iPhone. BeYourAlarm does not transmit your alarms, timers, labels, or
 recordings to us or to RevenueCat. If you use iCloud Backup or a computer backup, iOS may
-include BeyondAlarm's local data in that backup. Purchase-related information is handled
+include BeYourAlarm's local data in that backup. Purchase-related information is handled
 by Apple and RevenueCat as described below.
 
-BeyondAlarm also sends a small number of **anonymous product-analytics signals** to
+BeYourAlarm also sends a small number of **anonymous product-analytics signals** to
 **TelemetryDeck** so we can tell how many people finish creating an alarm and how many use dictation.
 These signals never include your alarm or timer labels, anything you dictate, or your voice
 recordings — see *Product analytics* below for the complete list of what is sent.
 
-BeyondAlarm also sends **crash reports** to **Sentry** when the app stops unexpectedly — **and a
+BeYourAlarm also sends **crash reports** to **Sentry** when the app stops unexpectedly — **and a
 short fault report when something goes wrong badly enough to stop the app working, even if it does
 not close.** Both are so that a fault which stops an alarm from ringing can be found and fixed. They
-describe what the software was doing when it failed. BeyondAlarm never puts your alarm or timer
+describe what the software was doing when it failed. BeYourAlarm never puts your alarm or timer
 labels, anything you dictate, or your voice recordings into them — ⚠️ with **one stated limit** on how
 far that can be guaranteed, explained under *Crash reporting*. Crash reporting also involves an
 identifier that stays the same on your device — separate from the analytics one, and used for a
@@ -26,7 +29,7 @@ different purpose — see *Crash reporting* below.
 
 ## Who we are and how to contact us
 
-BeyondAlarm is operated by **Daowen Yang**, an individual developer (sole trader) based in
+BeYourAlarm is operated by **Daowen Yang**, an individual developer (sole trader) based in
 **Australia**.
 
 For privacy questions or requests, contact: **beyondalarmai@gmail.com**.
@@ -37,31 +40,31 @@ and to keep reasonable records of those requests. Our contact address is a Gmail
 your email is also processed by Google as our email provider.
 
 If UK or EEA data protection law applies, **Daowen Yang** is the data controller for the
-personal data processed by BeyondAlarm.
+personal data processed by BeYourAlarm.
 
 ## What we store on your device
 
 **Your alarms.** Times, labels, repeat settings, alert style (play a sound, or read the label
 aloud), sound and voice choices, how often the label repeats, the snooze setting, and whether
-each alarm is on or off — all saved on your iPhone only. BeyondAlarm does not sync them between
+each alarm is on or off — all saved on your iPhone only. BeYourAlarm does not sync them between
 your devices, and we cannot see them.
 
 **Your timers.** Durations, labels, alert style, sound and voice choices, and how often the
-label repeats — saved on your iPhone only, exactly as your alarms are. BeyondAlarm does not
+label repeats — saved on your iPhone only, exactly as your alarms are. BeYourAlarm does not
 sync them between your devices, and we cannot see them.
 
-**A history of what your alarms did.** BeyondAlarm keeps a short record, on your iPhone only, of
+**A history of what your alarms did.** BeYourAlarm keeps a short record, on your iPhone only, of
 when each alarm was scheduled, when it rang, and whether it was stopped or snoozed — including from
 the Lock Screen. It holds **no labels, recordings or anything you wrote**: each alarm is named by a
 random code. It is kept for 30 days, is **not included in your iPhone backup**, and **the app never
 sends it anywhere**. It exists so a problem with an alarm can be diagnosed on a test iPhone; a
 diagnostic build we make for ourselves can export it, but the app you download cannot.
 
-**Your voice recordings.** If you dictate an alarm or timer label and allow BeyondAlarm to
-keep the recording, BeyondAlarm saves that audio on your iPhone so that alarm or timer can
+**Your voice recordings.** If you dictate an alarm or timer label and allow BeYourAlarm to
+keep the recording, BeYourAlarm saves that audio on your iPhone so that alarm or timer can
 read the label back in your own voice.
 
-- The recording **stays on your device** and is **never uploaded by BeyondAlarm**.
+- The recording **stays on your device** and is **never uploaded by BeYourAlarm**.
 - It **may be included in your own iPhone backup** (iCloud Backup or a computer backup), and
   restored to a new device along with the rest of your data. That backup belongs to you and
   is governed by Apple's terms, not ours — but we mention it because "stays on your device"
@@ -69,21 +72,21 @@ read the label back in your own voice.
 - Deleting an alarm — or a timer — deletes its recording. Changing that alarm's or timer's
   label so it no longer matches what you recorded stops the recording being used, and it is
   cleaned up when it is no longer needed by any alarm or timer.
-- BeyondAlarm asks before keeping recordings. If you decline, dictation still works — the
+- BeYourAlarm asks before keeping recordings. If you decline, dictation still works — the
   words become your label and no audio is kept.
 - **You can change your mind at any time in Settings ▸ Voice ▸ Voice recordings.** Turning it
-  **off** stops BeyondAlarm keeping any *new* recording. On its own it does not remove
-  recordings you already have: BeyondAlarm tells you how many there are and lets you choose.
+  **off** stops BeYourAlarm keeping any *new* recording. On its own it does not remove
+  recordings you already have: BeYourAlarm tells you how many there are and lets you choose.
   - **Keep them** — your existing recordings stay on this device, and those alarms and timers
     keep reading their labels in your own voice.
-  - **Delete** — BeyondAlarm removes them, and those alarms and timers read their labels in a
+  - **Delete** — BeYourAlarm removes them, and those alarms and timers read their labels in a
     system voice instead, so nothing goes silent. Afterwards an alarm may ring the standard alarm
-    sound rather than reading its label aloud; BeyondAlarm tells you when that happens and
+    sound rather than reading its label aloud; BeYourAlarm tells you when that happens and
     puts it right on its own, usually the next time you open the app — but not always then,
     because it will not interrupt an alarm that is ringing or snoozed to do it, so an alarm
     can ring that way more than once before it is put right. If it cannot finish
     for one of those alarms — because that alarm's existing settings could not be replaced just
-    then — BeyondAlarm tells
+    then — BeYourAlarm tells
     you instead of reporting success; that alarm or timer keeps its recording and goes on using
     its own voice, and the **Delete saved recordings** row finishes the job when you use it.
   - Either way, new dictations are no longer saved from that point on. If you have no saved
@@ -92,7 +95,7 @@ read the label back in your own voice.
 - Settings also has a **Delete saved recordings** row whenever you have any, so you can delete
   them without changing the on/off setting in either direction.
 - If something is still running when you ask to delete — an alarm that is ringing or snoozed, or
-  a timer that is counting down, paused or ringing — nothing is deleted and BeyondAlarm asks you
+  a timer that is counting down, paused or ringing — nothing is deleted and BeYourAlarm asks you
   to stop or cancel it and try again. Turning the setting off still takes effect, so no new
   recording is saved in the meantime.
 
@@ -102,22 +105,22 @@ device.
 
 ## Speech recognition
 
-When you dictate a label, BeyondAlarm uses Apple's speech recognition **on your device**.
+When you dictate a label, BeYourAlarm uses Apple's speech recognition **on your device**.
 Your speech is turned into text on the iPhone itself and is not sent to a server by
-BeyondAlarm.
+BeYourAlarm.
 
 When iOS asks for speech-recognition permission, it shows a standard Apple message saying that
 speech data will be sent to Apple. That wording is fixed by iOS and is shown for every app that
-uses speech recognition — it is not specific to BeyondAlarm. BeyondAlarm requests **on-device**
+uses speech recognition — it is not specific to BeYourAlarm. BeYourAlarm requests **on-device**
 transcription, so your speech is not sent to Apple's servers for this app. If on-device
 recognition is unavailable, dictation stops and asks you to type the label instead, rather than
 falling back to a server.
 
 ## Purchases and payments
 
-BeyondAlarm Pro is sold through **Apple's In-App Purchase**, as a monthly or yearly subscription
+BeYourAlarm Pro is sold through **Apple's In-App Purchase**, as a monthly or yearly subscription
 or as a **one-time Lifetime purchase**. Apple processes App Store purchases and payment details
-under Apple's own privacy policy. BeyondAlarm does not receive your payment card details. Apple
+under Apple's own privacy policy. BeYourAlarm does not receive your payment card details. Apple
 may provide receipt/status information for these purchases needed to unlock Pro features.
 
 Apple's privacy policy: https://www.apple.com/legal/privacy/
@@ -131,7 +134,7 @@ or custom user ID in RevenueCat. The anonymous ID is not your name, email, or Ap
 but it is still a persistent identifier for this app installation and may be considered
 personal data. We do not send RevenueCat your alarms, timers, labels, or recordings.
 RevenueCat also uses this purchase information, and the anonymous ID above, to give us **purchase statistics** — for example
-how many people buy, start, renew or cancel BeyondAlarm Pro — which we use to understand how
+how many people buy, start, renew or cancel BeYourAlarm Pro — which we use to understand how
 Pro is doing. It is not used to advertise to you or to track you across other companies'
 apps or websites.
 
@@ -173,7 +176,7 @@ TelemetryDeck's privacy policy: https://telemetrydeck.com/privacy/
 
 ## Crash reporting
 
-We use **Sentry** as our crash-reporting provider. BeyondAlarm is an alarm app, so a fault that
+We use **Sentry** as our crash-reporting provider. BeYourAlarm is an alarm app, so a fault that
 stops it from ringing matters more than in most software — and a crash report is the only way we
 can find one that happens on someone else's phone. This is a separate service from the analytics
 described above, and it receives different things.
@@ -187,13 +190,13 @@ the sequence of software steps that led to it, the app version and build, standa
 operating-system information such as the device model and iOS version, and device readings at the moment of the crash — such as the app's memory use and the phone's free
 memory, storage and battery level.
 
-It also includes **at most one** breadcrumb that BeyondAlarm itself records — *"the app finished
+It also includes **at most one** breadcrumb that BeYourAlarm itself records — *"the app finished
 setting itself up"* — a fixed marker with nothing written into it. ⚠️ **It is absent when the app
 crashed before reaching that point**, and that absence is itself useful: it tells us the fault
 happened while the app was still starting up.
 
 **And when the app does not crash but cannot work.** Some faults stop the app doing its job without
-closing it. In that case BeyondAlarm sends the same kind of technical report as above — the same app,
+closing it. In that case BeYourAlarm sends the same kind of technical report as above — the same app,
 device and software details and the same breadcrumb — identified by a **fixed code from a short list
 written into the app**. ⚠️ **It does not carry the identifier** described under *Sessions* below,
 which is sent only in session records. The list is:
@@ -207,13 +210,13 @@ with it.
 
 **What is kept out.** Your alarm or timer **labels**, anything you **dictate**, your **voice
 recordings** or their filenames, your contacts, your location, or your alarm times. Two things keep
-them out of every report: BeyondAlarm **switches off** the parts of the crash-reporting software that
+them out of every report: BeYourAlarm **switches off** the parts of the crash-reporting software that
 would collect them, **and** it **strips anything it does not expect** from a report before that
 report is sent. ⚠️ **One limit, stated next:** screenshots, screen recordings and file attachments
 travel a path the stripping cannot reach, so for those only the first of the two applies.
 
 **Screenshots, pictures of the screen, screen recordings and file attachments are switched off, and
-BeyondAlarm never asks for any of them.** ⚠️ **We are being exact about how strong that is, because
+BeYourAlarm never asks for any of them.** ⚠️ **We are being exact about how strong that is, because
 it is not the same guarantee as the paragraph above.** These travel a **different path** inside the
 crash-reporting software — one the stripping cannot reach — so switching them off is what is
 *intended* to prevent them, and it is the only thing doing so. **We cannot additionally promise the
@@ -257,7 +260,7 @@ them describes what you did in the app — only that a run happened and how it e
 
 **How long it is kept.** Sentry keeps crash reports under its own retention schedule, described in
 its privacy policy linked below; we do not extend it. Crash reports are built to contain no content
-you wrote, and BeyondAlarm removes anything identifying your device or installation from them before they are sent — the installation
+you wrote, and BeYourAlarm removes anything identifying your device or installation from them before they are sent — the installation
 identifier is only in the session records above. ⚠️ **But when the app crashes, the crash report is sent
 together with that session record**, so the two arrive at Sentry side by side — which is why the App
 Store privacy label lists crash data as linked to you. ⚠️ **Even so, we cannot pick out the reports that
@@ -280,14 +283,14 @@ Sentry's privacy policy: https://sentry.io/privacy/
   under *Product analytics*. It is not an advertising or tracking SDK, and it does not
   receive your labels, dictation, or recordings.
 - We **do** include a crash-reporting SDK (**Sentry**), described under *Crash reporting*. It is not
-  an advertising or tracking SDK, and BeyondAlarm never gives it your labels, dictation, or
+  an advertising or tracking SDK, and BeYourAlarm never gives it your labels, dictation, or
   recordings — with the one limit that section states. Like the analytics SDK, it involves an
   identifier that stays the same on your device — a separate one, which that section explains.
 - We do **not** sell personal information or share it for advertising, cross-app tracking, or
   data-broker purposes.
 - We share purchase-related information only with Apple and RevenueCat as described in
   this policy.
-- BeyondAlarm does **not** transmit your alarms, timers, labels, or voice recordings to us,
+- BeYourAlarm does **not** transmit your alarms, timers, labels, or voice recordings to us,
   RevenueCat, our analytics provider, or our crash-reporting provider. The analytics signals are a
   fixed list of app events with no user-written content in them — see *Product analytics* — and
   crash reports describe software faults, not what you wrote — see *Crash reporting*, including the
@@ -295,12 +298,12 @@ one limit stated there.
 
 ## Permissions the app asks for
 
-- **Alarms** — so BeyondAlarm can schedule alarms and timers that ring reliably.
+- **Alarms** — so BeYourAlarm can schedule alarms and timers that ring reliably.
 - **Microphone** — so you can speak an alarm or timer label instead of typing it, and, if you
   allow it, so that recording can be kept on your device.
 - **Speech recognition** — to turn what you say into text, on your device.
 
-You can change these at any time in **Settings ▸ BeyondAlarm** on your iPhone. Declining the
+You can change these at any time in **Settings ▸ BeYourAlarm** on your iPhone. Declining the
 microphone or speech permissions only removes dictation — typing a label still works.
 
 ## Legal bases for UK and EEA users
@@ -350,7 +353,7 @@ Transfer Agreement/Addendum. For UK users this matters in its own right: data se
 Union does leave the UK, and the EEA is covered by the UK's adequacy regulations, so no **additional**
 safeguard applies to that leg — while access from the United States is covered by the terms above.
 
-BeyondAlarm does not send your alarms, timers, labels, or voice recordings to us, to RevenueCat,
+BeYourAlarm does not send your alarms, timers, labels, or voice recordings to us, to RevenueCat,
 to TelemetryDeck, or to Sentry — for Sentry, with the one limit stated under *Crash reporting*. They may still be included in your own iCloud Backup or computer
 backup, as described above.
 
@@ -362,7 +365,7 @@ processing is based on consent.
 
 Because your alarms, timers, labels, and recordings stay on your device, we cannot remotely
 view, export, correct, or delete them for you. You can edit or delete alarms and timers in
-the app, and deleting the app removes BeyondAlarm's local data from that device. You can withdraw your
+the app, and deleting the app removes BeYourAlarm's local data from that device. You can withdraw your
 consent to keeping recordings, and delete the recordings already saved, in **Settings ▸
 Voice** — see *What we store on your device* above for what each choice does. Backup copies
 are managed through your Apple backup settings.
@@ -377,7 +380,7 @@ tell us at the address above.
 
 For **crash reports**, the route is the same address — **beyondalarmai@gmail.com** — but what we can
 do differs, and saying so is more useful than a general assurance. A crash report is built to contain
-no name, email, or content you wrote, and BeyondAlarm removes anything identifying your device or installation from it before it is sent;
+no name, email, or content you wrote, and BeYourAlarm removes anything identifying your device or installation from it before it is sent;
 the installation identifier is only in the session records described under *Crash reporting* — though a
 report of a crash is sent **together with** that session record.
 ⚠️ **Because the app never shows you that identifier, and the reports we can see carry none, we cannot
@@ -416,16 +419,16 @@ stops needing them, as described below.
 
 **Deleting an alarm — or a timer — deletes its recording straight away.** So does choosing
 **Delete** in Settings ▸ Voice, for each alarm **or timer** the deletion completes: it stops using
-the recording immediately, the audio BeyondAlarm generated from it is removed at once, and the
+the recording immediately, the audio BeYourAlarm generated from it is removed at once, and the
 original recording is deleted at the same time. Where it cannot complete for one of them —
 because its existing settings could not be replaced just then — that alarm or timer keeps its
-recording and its own voice until you retry, and BeyondAlarm tells you rather than reporting
+recording and its own voice until you retry, and BeYourAlarm tells you rather than reporting
 success. *(Something that is running is different, and is covered above: if an alarm is ringing
 or snoozed, or a timer is counting down, paused or ringing, nothing is deleted at all and
-BeyondAlarm asks you to try again after stopping or cancelling it.)*
+BeYourAlarm asks you to try again after stopping or cancelling it.)*
 
 **If removing the file itself cannot finish — for example the app is closed part-way through
-— the app completes it later on its own, but not on a schedule you can predict.** BeyondAlarm's
+— the app completes it later on its own, but not on a schedule you can predict.** BeYourAlarm's
 routine cleanup runs when the app starts, and after an alarm or timer is saved or deleted. It
 never runs on a schedule of its own, and never while the app is closed. How many runs the fallback needs depends
 on how far the file had already got: **usually two** — one to set it aside and a later one to
@@ -435,7 +438,7 @@ the file can outlast a single launch, and if you never open the app again it sta
 is. Setting a file aside before erasing it is deliberate: it lets the app recover a recording
 that is still wanted if something goes wrong while saving, instead of destroying audio that
 cannot be recreated.
-What is certain, for every recording whose deletion completed, is that BeyondAlarm never uses
+What is certain, for every recording whose deletion completed, is that BeYourAlarm never uses
 it again from that moment — even while the file itself is still being cleaned up.
 
 A recording that is no longer needed for another reason — you replaced it, or you edited the
@@ -448,10 +451,10 @@ Usually that means a backup made before you deleted it. ⚠️ **But it can also
 afterwards**: on the fallback path above, the file can still be on the device — and in the
 places a backup copies — for a while after you delete it, so a backup taken in that window can
 contain it too. Recordings are stored where your iPhone backup can include them, so that your
-own voice survives moving to a new phone, and BeyondAlarm keeps no record of past deletions to
+own voice survives moving to a new phone, and BeYourAlarm keeps no record of past deletions to
 re-apply after a restore. Whether a particular backup holds a particular recording is governed
 by your own backup settings, so this is a possibility to be aware of rather than a certainty —
-and it is ordinary iPhone restore behaviour rather than something BeyondAlarm can undo for
+and it is ordinary iPhone restore behaviour rather than something BeYourAlarm can undo for
 you.
 
 Temporary recording files made while editing are stored in the app's temporary area and are
@@ -469,12 +472,12 @@ The weekly dictation count is kept for the current quota window and then reset o
 The recording-retention consent choice is kept until it is changed, reset, or the app is
 deleted.
 
-Deleting the app removes BeyondAlarm's local data from that device. If an iPhone backup
-included BeyondAlarm, that backup copy is managed by Apple under your backup settings.
+Deleting the app removes BeYourAlarm's local data from that device. If an iPhone backup
+included BeYourAlarm, that backup copy is managed by Apple under your backup settings.
 
 ## Children
 
-BeyondAlarm is a general-audience app and is not directed to children under 13, or to
+BeYourAlarm is a general-audience app and is not directed to children under 13, or to
 children under the age that requires parental consent where they live. We do not knowingly
 collect personal information from children. If you believe a child has provided personal
 information through a support request or purchase-related process, contact us at
