@@ -1,4 +1,6 @@
-# BeyondAlarm — Support
+# BeYourAlarm — Support
+
+*BeYourAlarm was called BeyondAlarm until November 2026. It is the same app.*
 
 ## Contact us
 
@@ -20,9 +22,9 @@ Please don't include the alarm's label if it's private. We don't need it to find
 
 ## Purchases
 
-* **Restore a purchase** on a new iPhone, or after reinstalling: open BeyondAlarm → **Settings → Restore
+* **Restore a purchase** on a new iPhone, or after reinstalling: open BeYourAlarm → **Settings → Restore
   Purchases**.
-* **Cancel a subscription:** on your iPhone, open **Settings → your name → Subscriptions → BeyondAlarm
+* **Cancel a subscription:** on your iPhone, open **Settings → your name → Subscriptions → BeYourAlarm
   Pro**. Cancel at least 24 hours before it renews.
 * **Refunds** are handled by Apple: <https://reportaproblem.apple.com>.
 
