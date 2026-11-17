@@ -1,2 +1,2 @@
 # beyouralarm-privacy
-Privacy policy for BeyondAlarm, an iOS alarm app.
+Privacy policy for BeYourAlarm, an iOS alarm app.
